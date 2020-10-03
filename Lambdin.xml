@@ -1,0 +1,19 @@
+<?xml version='1.0'?>
+<!DOCTYPE book>
+<!--
+   [
+	<!ENTITY preface SYSTEM "0a_Preface.xml">
+	<!ENTITY introduction SYSTEM "0b_Introduction.xml">
+	<!ENTITY alphabet SYSTEM "0c_The Coptic Alphabet.xml">
+	<!ENTITY chap2 SYSTEM "chap2.xml">
+]
+-->
+<book
+	xmlns="http://docbook.org/ns/docbook"
+	xmlns:xi="http://www.w3.org/2001/XInclude"
+	version="5.0">
+	<title>Introduction to Sahidic Coptic</title>
+<!-- 	<xi:include href="./0a_Preface.xml"/>
+	<xi:include href="./0b_Introduction.xml"/>
+ -->	<xi:include href="./0c_The%20Coptic%20Alphabet.xml"/>
+</book>

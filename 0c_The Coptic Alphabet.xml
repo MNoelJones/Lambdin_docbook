@@ -1,0 +1,114 @@
+<?xml version='1.0'?>
+<chapter xml:id="alphabet"><title>The Coptic Alphabet</title>
+
+<para>Sahidic Coptic is written in the Greek alphabet augmented by six letters borrowed from Demotic script, the last stage of Egyptian hieroglyphic writing. The letters of the full alphabet, together with their conventional transcription, are as follows:
+</para>
+
+<informaltable>
+	<tgroup>
+		<row> <entry><literal Lang="cop">ⲁ</literal></entry> <entry>a</entry></row>
+<row><entry>ⲃ</entry> <entry>b</entry>
+</row><entry>ⲅ</entry> <entry>g</entry>
+<row><entry>ⲇ</entry> <entry>d</entry></row>
+<row><entry>ⲉ</entry> <entry>e</entry></row>
+<row><entry>ⲍ</entry> <entry>z</entry></row>
+
+<row><entry>ⲏ</entry> <entry>ebar</entry></row>
+<row><entry>ⲑ</entry> <entry>th</entry></row>
+<row><entry>ⲓ</entry> <entry>i</entry></row>
+<row><entry>ⲕ</entry> <entry>k</entry></row>
+<row><entry>ⲗ</entry> <entry>l</entry></row>
+<row><entry>ⲙ</entry> <entry>m</entry></row>
+
+<row><entry>ⲛ</entry> <entry>n</entry></row>
+<row><entry>ⲝ</entry> <entry>ks</entry></row>
+<row><entry>ⲟ</entry> <entry>o</entry></row>
+<row><entry>ⲡ</entry> <entry>p</entry></row>
+<row><entry>ⲣ</entry> <entry>r</entry></row>
+<row><entry>ⲥ</entry> <entry>s</entry></row>
+
+<row><entry>ⲧ</entry> <entry>t</entry></row>
+<row><entry>ⲩ</entry> <entry>u</entry></row>
+<row><entry>ⲫ</entry> <entry>ph</entry></row>
+<row><entry>ⲭ</entry> <entry>kh</entry></row>
+<row><entry>ⲯ</entry> <entry>ps</entry></row>
+<row><entry>ⲱ</entry> <entry>obar</entry></row>
+
+<row><entry>ϣ</entry> <entry>s-hacek</entry></row>
+<row><entry>ϥ</entry> <entry>f</entry></row>
+<row><entry>ϩ</entry> <entry>h</entry></row>
+<row><entry>ϫ</entry> <entry>j, g-hacek</entry></row>
+<row><entry>ϭ</entry> <entry>c-hacek, c</entry></row>
+<row><entry>ϯ</entry> <entry>ti</entry></row>
+</tgroup>
+</informaltable>
+
+<para>The following paragraphs deal with the Coptic, not the Greek, pronunciation of this alphabet.
+</para>
+<title>Spelling and Pronunciation
+</title>
+<subtitle>a. The Consonants
+</subtitle>
+
+<para>ⲁ was apparently pronounced like English *v* in *voice*, but it is generally read simply as *b* in *back*.
+</para>
+<para>ⲅ occurs only as a positional variant of ⲕ in a very small set of forms. Pronounced like the *g* of *good*.
+</para>
+<para>ⲇ and ⲍ do not normally occur in standard Sahidic spelling. ⲍ may occur for ⲥ in a few words, e.g. ⲁⲛⲍⲏⲃⲉ for ⲁⲛⲥⲏⲃⲉ school. Pronounced *d* as in *dog* and *z* as in *zoo* respectively.
+</para>
+<para>ⲫ, ⲑ, and ⲭ are rare and need not be used at all. The Copts seem to have used this same pronunciation for these letters in Greek words, contrary to the ordinary Greek pronunciation of ⲫ as *f*, ⲑ as *th* (*thin*), and ⲭ as *ch* (German *ich*, *ach*).
+</para>
+<para>ⲕ, ⲡ, and ⲧ were like English *k*, *p*, *t*, but without aspiration. Thus, they were more like the *k*, *p*, *t* of *skin*, *spin*, *stop* than the aspirated sounds of *kin*, *pin*, *top*.
+</para>
+<para>ⲗ, ⲙ, and ⲛ were probably the same as English *l*, *m*, and *n*.
+</para>
+<para>ⲝ is simply a combination of ⲕ + ⲥ, rarely used. E.g. ⲝⲟⲩⲣ ring.
+</para>
+<para>ⲣ is conventionally pronounced like English *r* in *road*. Its actual pronunciation is unknown.
+</para>
+<para>ⲥ was like English *s* in *see*.
+</para>
+<para>ⲯ is simply ⲡ + ⲥ, rarely used. E.g. ⲯⲓⲧⲉ nine (*psite*).
+</para>
+<para>ϣ was the *sh* of *shall*.
+</para>
+<para>ϥ was the *f* of *foot*.
+</para>
+<para>ϩ was probably like English *h* in *hope*.
+</para>
+<para>ϫ is conventionally pronounced like the *j* of *judge*. Its actual pronunciation was probably closer to that of the [t^y] of *tune*. [1]
+</para>
+<para>ϭ, conventionally like the *ch* of *church*, was probably closer to the [k^y] of *cue*, *cute*.
+</para>
+<para>ϯ is merely a graphic symbol for ⲧ + ⲓ, but it was the normal way to spell this sequence of sounds. E.g. ϯⲙⲉ village (*time*).
+</para>
+<subtitle>b. The simple vowels
+</subtitle>
+<para>ⲁ like the *a* of *father*. E.g. ⲁϥ [ɑf] meat.
+</para>
+<para>ⲉ like the *e* of *let*. E.g. ϩⲉⲛ [hɛn] some.
+</para>
+<para>ⲏ probably like the *a* of *hate*. E.g. ⲙⲏⲧ [met] ten.
+</para>
+<para>ⲓ like the *i* of *machine*. This vowel is always spelled ⲉⲓ in initial positions: ⲉⲓⲛⲉ [ínɛ] to bring, ⲉⲓⲥ [is] behold. Internally and finally the spelling alternates between ⲓ and ⲉⲓ, but ⲓ is preferred.
+</para>
+<para>ⲟ like the *o* of *log*, *fog*, *dog*, *off*, *on*. E.g. ⲧⲟⲡ [tɔp] edge.
+</para>
+<para>ⲩ does not appear as a simple vowel in Coptic words.
+</para>
+<para>ⲟⲩ is the normal writing of the vowel [u], the *oo* of *food*. E.g. ⲛⲟⲩⲃ [nub] gold.
+</para>
+<para>ⲱ like the *o* of *hope*. E.g. ϩⲱⲡ [hop] to hide.
+</para>
+
+<subtitle>c. Semivowels and dipthongs
+</subtitle>
+<para>The consonants *y* and *w* of English *yet* and *wet* are often referred to as semivowels because they are the same sounds as the vowels [i] and [u] of *beet* and *boot* very briefly articulated. The Coptic vowels ⲉⲓ (ⲓ) and ⲟⲩ may function as consonants in the same way. E.g. ⲉⲓⲱⲧ [yot] father, ⲟⲩⲟⲡ [wɔp] to become pure.
+</para>
+<para>The semivowels ⲉⲓ (ⲓ) and ⲟⲩ combine with a preceding simple vowel to form various dipthongs. Many of the dipthongs have more than one spelling; the reader should follow the spelling used in the Lessons. The dipthongs should be pronounced carefully, with the value of the single vowel as given plus a final *y* or *w* as the case many be.
+</para>
+
+
+[1] Brackets are used to indicate phonetic pronunciation in standard phonetic symbols. Do not confuse these with the conventional transcriptions. 
+
+</chapter>
